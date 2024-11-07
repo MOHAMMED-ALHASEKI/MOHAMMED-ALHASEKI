@@ -1,7 +1,10 @@
 <!-- Header -->
+<h3 align="center">
+  
+  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">
-  <br>
-  Hi, I'm Mohammed Alhaseki <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+ 
+  Hi, I'm Mohammed <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
@@ -26,7 +29,32 @@
 <h2>Tech stack</h2>
 
 <p align="center">
+
+
+
+
+
+  
   <b>Languages</b>
+
+  <br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  </a>
+
+
+
+
  
 <!-- My Activity -->
 <h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
@@ -91,7 +119,20 @@ Android Studio                 1 hr 6 mins         █░░░░░░░░�
 <!-- Connection -->
 <h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
 <p align="center">
+
+
+
+
+<p align="center">
+  
   <a href="linkedin.com/in/mohammedalhaseki" target="_blank">
-    <code><img src="https://github.com/user-attachments/assets/b12ae408-95dc-4206-bd70-1bdb8e16263a " alt="nguyennhathuy.orit" height="40" width="50"/></code>
-  </a>
-</p>
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/MOHAMMED-ALHASEKI/MOHAMMED-ALHASEKI" target="_blank">
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+<p> 
+
+<div align="center">
+   Thanks for watching my profile! Have a nice day! :wink: <br/>

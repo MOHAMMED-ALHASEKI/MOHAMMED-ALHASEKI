@@ -14,6 +14,9 @@
 
 <p align="center">
   <b>I'm a passionate programmer who loves to code</b>
+  <br>
+  <b>Mobile Apps Developer | Flutter</b>
+
 </p>
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
@@ -22,7 +25,7 @@
 - ⭐ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a graduate of [Saba University ](https://www.facebook.com/SabaUniversityY/).
 - 👨🏻‍💻 I am working at [Delegates-App] and [POS-App] 
-- 🌱 I’m currently focusing on **Mobile Developer** and practicing **RreactNative** everyday.
+- 🌱 I’m currently focusing on **Flutter** and practicing **RreactNative** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 <br>
 <br>

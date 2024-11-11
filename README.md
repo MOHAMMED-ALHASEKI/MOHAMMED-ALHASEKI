@@ -21,7 +21,7 @@
 
 - ⭐ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a graduate of [Saba University ](https://www.facebook.com/SabaUniversityY/).
-- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`.
+- 👨🏻‍💻 I am working at [Delegates-App] and [POS-App] 
 - 🌱 I’m currently focusing on **Mobile Developer** and practicing **RreactNative** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 <br>

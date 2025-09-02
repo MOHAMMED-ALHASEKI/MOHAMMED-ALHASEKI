@@ -1,141 +1,122 @@
 <!-- Header -->
-<h3 align="center">
-  
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">
- 
   Hi, I'm Mohammed <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 
-<!-- Counter -->
+<!-- Profile Image instead of counter -->
 <p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
+  <img src="https://komarev.com/ghpvc/?username=MOHAMMED-ALHASEKI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <b>I'm a passionate programmer who loves to code</b>
-  <br>
-  <b>Mobile Apps Developer | Flutter</b>
-
+  <b>Flutter Mobile App Developer | UX/UI Designer | Technology Solutions Consultant</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
-<br>
+---
 
-- ⭐ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 📓 I'm a graduate of [Saba University ](https://www.facebook.com/SabaUniversityY/).
-- 👨🏻‍💻 I am working at [Delegates-App] and [POS-App] 
-- 🌱 I’m currently focusing on **Flutter** and practicing **RreactNative** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-<br>
-<br>
-<h2>Tech stack</h2>
-
+<h2>Languages</h2>
 <p align="center">
 
-
-
-
-
-  
-  <b>Languages</b>
-
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+  <a href="https://isocpp.org/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-basic/visual-basic.png"></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <a href="https://www.python.org/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   </a>
-  <a href="https://www.java.com" target="_blank">
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <a href="https://dart.dev/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
   </a>
 
+</p>
 
+---
 
-
- 
-<!-- My Activity -->
-<h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
-<details> 
-  <summary><b>⚡ GitHub Contribution</b></summary>
-  <br>
-  <p><img alt="oHTGo's GitHub Contribution" src="https://github.com/oHTGo/oHTGo/blob/snake/snake.svg"/></p>
-  <br>
-</details>
-<details> 
-  <summary><b>📊 Wakatime Stats</b></summary>
-  <br>
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2024%20mins-blue)
-
-**I'm a Night 🦉**
-
-```text
-🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83%
-🌆 Daytime    145 commits    ███████░░░░░░░░░░░░░░░░░░   30.79%
-🌃 Evening    194 commits    ██████████░░░░░░░░░░░░░░░   41.19%
-🌙 Night      48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%
-
-```
-
-📅 **I'm Most Productive on Tuesday**
-
-```text
-Monday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5%
-Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.26%
-Wednesday    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71%
-Thursday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
-Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68%
-Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
-Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.05%
-
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages:
-Other                    18 hrs 45 mins      █████████████████░░░░░░░░   69.59%
-Projects               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19%
-Firebase                      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
-Flutter                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
-Dart                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
-
-🔥 Editors:
-Browser                  18 hrs 2 mins       ████████████████░░░░░░░░░   66.94%
-VS Code                  7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.97%
-Android Studio                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
-
-```
-
-<!--END_SECTION:waka-->
-</details>
-
-<!-- Connection -->
-<h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
+<h2>Frameworks</h2>
 <p align="center">
 
+  <!-- C++ -->
+  <a href="https://www.qt.io/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/qt/qt.png"></code>
+  </a>
 
+  <!-- C# / VB -->
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
+  </a>
 
+  <!-- HTML / JS -->
+  <a href="https://react.dev/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
+  </a>
 
+  <!-- Python -->
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></code>
+  </a>
+
+  <!-- Dart -->
+  <a href="https://flutter.dev/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
+  </a>
+</p>
+
+---
+
+<h2>Databases</h2>
 <p align="center">
-  
-  <a href="linkedin.com/in/mohammedalhaseki" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png"></code>
+  </a>
+</p>
+
+---
+
+<h2>Connect with me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/mohammedalhaseki" target="_blank">
+    <img align="center" alt="Mohammed | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  
   <a href="https://github.com/MOHAMMED-ALHASEKI/MOHAMMED-ALHASEKI" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-<p> 
+    <img align="center" alt="Mohammed | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+  </a>
+</p> 
 
 <div align="center">
    Thanks for watching my profile! Have a nice day! :wink: <br/>
+</div>

@@ -1,122 +1,114 @@
-<!-- Header -->
-<h1 align="center">
-  Hi, I'm Mohammed <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
-</h1>
-
-<!-- Profile Image instead of counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOHAMMED-ALHASEKI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <b>Flutter Mobile App Developer | UX/UI Designer | Technology Solutions Consultant</b>
-</p>
-
----
-
-<h2>Languages</h2>
-<p align="center">
-
-  <a href="https://isocpp.org/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-basic/visual-basic.png"></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
-  </a>
-
-</p>
-
----
-
-<h2>Frameworks</h2>
-<p align="center">
-
-  <!-- C++ -->
-  <a href="https://www.qt.io/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/qt/qt.png"></code>
-  </a>
-
-  <!-- C# / VB -->
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
-  </a>
-
-  <!-- HTML / JS -->
-  <a href="https://react.dev/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></code>
-  </a>
-
-  <!-- Dart -->
-  <a href="https://flutter.dev/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
-  </a>
-</p>
-
----
-
-<h2>Databases</h2>
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png"></code>
-  </a>
-</p>
-
----
-
-<h2>Connect with me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/mohammedalhaseki" target="_blank">
-    <img align="center" alt="Mohammed | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/MOHAMMED-ALHASEKI/MOHAMMED-ALHASEKI" target="_blank">
-    <img align="center" alt="Mohammed | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
-  </a>
-</p> 
-
+<!-- README -->
 <div align="center">
-   Thanks for watching my profile! Have a nice day! :wink: <br/>
+
+# Hi, I'm Mohammed 👋
+**Flutter Mobile App Developer | UI/UX Designer | Technology Solutions Consultant**
+
+![Profile Views](https://komarev.com/ghpvc/?username=MOHAMMED-ALHASEKI&color=blue)
+
+---
+
+### 📄 My CV & Portfolio
+<a href="CV_LINK" target="_blank"><img src="https://img.shields.io/badge/My%20CV-PDF-green?style=for-the-badge&logo=adobe"></a>
+<a href="https://mohammed-alhaseki.github.io/Mohammed-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-Website-blue?style=for-the-badge&logo=vercel"></a>
+
+---
+
+## 🛠️ Languages
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+## 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+## 🎨 Other Expertise
+- Expert in **UI/UX Design** (Figma, Adobe XD, Sketch)  
+- **Technical Sales & Consultancy**  
+- Mobile Development (Android | iOS | Cross-platform)  
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MOHAMMED-ALHASEKI&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## ⭐ Followers & Stars
+<p align="center">
+  <a href="https://github.com/MOHAMMED-ALHASEKI?tab=followers">
+    <img src="https://img.shields.io/github/followers/MOHAMMED-ALHASEKI?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/MOHAMMED-ALHASEKI?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MOHAMMED-ALHASEKI?label=Stars&style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMED-ALHASEKI&show_icons=true&theme=dark&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMED-ALHASEKI&layout=compact&theme=dark" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMED-ALHASEKI&theme=dark"/>
+</p>
+
+---
+
+## 🌍 Connect with me
+<p align="center">
+  <a href="mailto:mohammedalhaseki@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammedalhaseki-055668336"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MOHAMMED-ALHASEKI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.behance.net/YOUR_BEHANCE"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://dribbble.com/YOUR_DRIBBBLE"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+</p>
+
+---
+
+✨ *Thanks for visiting my profile! Have a nice day!* ✨  
+
 </div>
